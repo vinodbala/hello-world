@@ -1,6 +1,6 @@
 # hello-world
 Hello World.
 
-This is the second of many edits
+This project allows user "vinodbala" to test out the various options available in github.
 
-Edit branch: Readme
+Edit branch: working
