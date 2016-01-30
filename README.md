@@ -3,4 +3,6 @@ Hello World.
 
 This is the third of many edits from this branch
 
-Edit branch: Readme
+This project allows user "vinodbala" to test out the various options available in github.
+
+Edit branch: working
